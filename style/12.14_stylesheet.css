@@ -1,0 +1,44 @@
+    body{
+    background-color: #ffccff;
+    color: #590099;
+    .cell1 {background-color: #ffccff;} 
+    .cell2 {background-color: #ffcccc;}
+    .cell3 {background-color: #ff99ff;}
+    .cell4 {background-color: #ff99cc;}
+    .cell5 {background-color: #ff66ff;}
+    .cell6 {background-color: #ff66cc;}
+    .cell7 {background-color: #ff33ff;}
+    .cell8 {background-color: #ff33cc;}
+    .cell9 {background-color: #ff00ff;}
+    .cell10 {background-color: #ff00cc;}
+    .cell11 {background-color: #cc66ff;}
+    .cell12 {background-color: #cc66cc;}
+    .cell13 {background-color: #cc99ff;}
+    .cell14 {background-color: #cc99cc;}
+    .cell15 {background-color: #ff66d6;}
+    .cell16 {background-color: #a239a2;}
+
+
+    .kleur1 { background-color: green; }
+    .kleur2 { background-color: red; }
+    .kleur3 { background-color: blue; }
+    .kleur4 { background-color: pink; }
+    .kleur5 { background-color: orange; }
+    .kleur6 { background-color: blueviolet; }
+    .kleur7 { background-color: black; }
+    .kleur8 { background-color: yellow; }
+        }
+
+    header{
+        background-color: #990099;
+        width: 100%;
+        height: 100px;
+    }
+
+    footer{
+       background-color: #ff33ff;
+        width: 100%;
+        height: 100px;
+    }  
+
+</style>
