@@ -1,6 +1,6 @@
     body{
     background-color: #ffccff;
-    color: #590099;
+    color: #590099;}
     .cell1 {background-color: #ffccff;} 
     .cell2 {background-color: #ffcccc;}
     .cell3 {background-color: #ff99ff;}
@@ -27,7 +27,7 @@
     .kleur6 { background-color: blueviolet; }
     .kleur7 { background-color: black; }
     .kleur8 { background-color: yellow; }
-        }
+
 
     header{
         background-color: #990099;
